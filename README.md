@@ -1,4 +1,4 @@
-# CRUD JavaScript Local Storage
+## CRUD JavaScript Local Storage
 
 Ini adalah aplikasi CRUD (Create, Read, Update, Delete) sederhana yang dibangun menggunakan JavaScript dan local Storage. Aplikasi ini memungkinkan pengguna untuk memasukkan, melihat, mengupdate, dan menghapus data dalam penyimpanan lokal browser menggunakan localStorage.
 
