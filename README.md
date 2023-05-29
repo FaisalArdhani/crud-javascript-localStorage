@@ -11,7 +11,7 @@ Ini adalah aplikasi CRUD (Create, Read, Update, Delete) sederhana yang dibangun 
 
 ## Prasyarat
 
-Sebelum menjalankan aplikasi ini, pastikan Anda memiliki browser yang mendukung fitur localStorage. Mayoritas browser modern mendukung fitur ini.
+Sebelum menjalankan aplikasi ini, pastikan Anda memiliki browser yang mendukung fitur local Storage. Mayoritas browser modern mendukung fitur ini.
 
 ## Cara Menggunakan
 
@@ -27,7 +27,7 @@ File `index.html` berisi markup HTML dasar untuk tampilan aplikasi CRUD. Di dala
 
 ### `main.js`
 
-File `main.js` berisi kode JavaScript yang mengendalikan logika aplikasi CRUD. Kode ini menggunakan localStorage untuk menyimpan dan mengambil data dari penyimpanan lokal browser.
+File `main.js` berisi kode JavaScript yang mengendalikan logika aplikasi CRUD. Kode ini menggunakan local Storage untuk menyimpan dan mengambil data dari penyimpanan lokal browser.
 
 Beberapa fungsi penting dalam `main.js`:
 
